@@ -96,6 +96,11 @@ button:hover, button:focus {
 Media Querys Mobile
 ============================================*/
 /*/////////////////////// Dispositivos extras pequenos (telefones de retrato, menos de 576px) ////////////////////////////////////////////*/
+@media (max-width: 575px) {
+  body, p, span {
+    font-size: 90% !important;
+  }
+}
 /*/////////////////////// Dispositivos extras pequenos (telefones de retrato, menos de 576px) ////////////////////////////////////////////*/
 /*/////////////////////// Dispositivos médios (tablets, 768px e acima) ///////////////////////////////////////////////////////////////////*/
 /*/////////////////////// Dispositivos grandes (desktops, 992 px e acima) ////////////////////////////////////////////////////////////////*/
