@@ -41,6 +41,10 @@ p, li, a, span {
   color: hsl(217, 24%, 59%) !important;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Sora", sans-serif;
   background-color: hsl(222, 47%, 11%);
