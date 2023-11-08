@@ -334,6 +334,11 @@
 	border-radius: 0px;
 }
 
+a.link {
+  color: hsla(199, 89%, 49%, 1) !important;
+  text-decoration: underline;
+}
+
 .newsletter-form button {
 	flex: 1 1 260px;
 	font-family: "Nunito", Helvetica, Arial, sans-serif;
