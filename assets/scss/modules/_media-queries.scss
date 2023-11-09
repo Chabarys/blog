@@ -7,6 +7,14 @@ Media Querys Mobile
   body, p, span {
     font-size: 90% !important;
   }
+
+  .container-receita {
+    margin-bottom: 1.5rem;
+  }
+
+  .container-receita + div {
+    margin: 0 auto;
+  }
 }
 
 /*/////////////////////// Dispositivos extras pequenos (telefones de retrato, menos de 576px) ////////////////////////////////////////////*/
